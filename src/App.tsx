@@ -18,7 +18,7 @@ function App() {
             <HW1/>
             <HW2 myFriends={users.myFriends}/>
             <HW3 />
-            {/*<HW4 />*/}
+            <HW4 />
         </div>
     );
 }
